@@ -1,3 +1,12 @@
-mod s1801_number_of_orders_in_the_backlog;
-mod s2_add_two_numbers;
-mod s2042_check_if_numbers_are_ascending_in_a_sentence;
+pub mod s1658_reduce_x_to_zero;
+pub mod s1801_number_of_orders_in_the_backlog;
+pub mod s1803_count_pairs_with_xor_in_a_range;
+pub mod s1806_min_num_of_operations_to_reinit_a_permutation;
+mod s1807_evaluate_bracket_of_a_string;
+pub mod s2042_check_if_numbers_are_ascending_in_a_sentence;
+pub mod s2180_count_integers_with_even_digit_sum;
+pub mod s2185_count_words_with_given_prefix;
+mod s2283_check_equal_digit_count_and_value;
+mod s2287_rearrange_char_to_make_string;
+pub mod s2_add_two_numbers;
+mod s753_cracking_the_sage;
